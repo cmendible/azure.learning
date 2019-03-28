@@ -1,7 +1,7 @@
 ---?image=fundamentals/slides/img/cover.png
 @title[Cover]
 
----?image=fundamentals/slides/img/slide.PNG
+---?image=fundamentals/slides/img/slide.png
 
 ### @color[rgb(0, 127, 255)](Overview)
 
@@ -15,7 +15,7 @@
 - Azure networking options
 - Control and organize Azure resources with Azure Resource Manager
 
----?image=fundamentals/slides/img/slide.PNG
+---?image=fundamentals/slides/img/slide.png
 
 ### @color[rgb(0, 127, 255)](Overview)
 
@@ -23,7 +23,7 @@
 - Apply and monitor infrastructure standards with Azure Policy
 - Predict costs and optimize spending for Azure)
 
----?image=fundamentals/slides/img/slide.PNG
+---?image=fundamentals/slides/img/slide.png
 
 ### @color[rgb(0, 127, 255)](What is cloud computing?)
 
@@ -31,7 +31,7 @@ Cloud computing is renting resources, like storage space or CPU cycles, on anoth
 
 The cloud provider is responsible for the physical hardware required to execute your work.
 
----?image=fundamentals/slides/img/slide.PNG
+---?image=fundamentals/slides/img/slide.png
 
 ### @color[rgb(0, 127, 255)](Benefits of cloud computing)
 
@@ -43,7 +43,7 @@ The cloud provider is responsible for the physical hardware required to execute 
 - Global
 - Secure
 
----?image=fundamentals/slides/img/slide.PNG
+---?image=fundamentals/slides/img/slide.png
 
 ### @color[rgb(0, 127, 255)](CapEx vs OpEx)
 
@@ -51,7 +51,7 @@ The cloud provider is responsible for the physical hardware required to execute 
 
 - **Operational Expenditure (OpEx)**: OpEx is spending money on services or products now and being billed for them now. You can deduct this expense from your tax bill in the same year. There's no upfront cost. You pay for a service or product as you use it.
 
----?image=fundamentals/slides/img/slide.PNG
+---?image=fundamentals/slides/img/slide.png
 
 ### @color[rgb(0, 127, 255)](Cloud deployment models)
 
@@ -59,19 +59,24 @@ The cloud provider is responsible for the physical hardware required to execute 
 - Private
 - Hybrid
 
----?image=fundamentals/slides/img/slide.PNG
+---?image=fundamentals/slides/img/slide.png
 
 ### @color[rgb(0, 127, 255)](Types of cloud services)
 
 ![Iaas, PaaS, SaaS](fundamentals/slides/img/5-layer-diagram.png)
 
----?image=fundamentals/slides/img/slide.PNG
+---?image=fundamentals/slides/img/slide.png
 
 ### @color[rgb(0, 127, 255)](Azure Regions)
 
 ![Azure Regions](fundamentals/slides/img/regions-map-large.svg)
 
----?image=fundamentals/slides/img/slide.PNG
+Note:
+
+- 54 regions worldwide
+- available in 140 countries
+
+---?image=fundamentals/slides/img/slide.png
 
 ### @color[rgb(0, 127, 255)](Azure Availability Zones)
 
@@ -81,7 +86,7 @@ Note:
 
 Each Availability Zone is made up of one or more datacenters equipped with independent power, cooling, and networking. It is set up to be an isolation boundary.
 
----?image=fundamentals/slides/img/slide.PNG
+---?image=fundamentals/slides/img/slide.png
 
 ### @color[rgb(0, 127, 255)](Azure Region Pairs)
 
@@ -91,23 +96,68 @@ Note:
 
 Each Azure region is always paired with another region within the same geography
 
----?image=fundamentals/slides/img/slide.PNG
+---?image=fundamentals/slides/img/slide.png
 
 ### @color[rgb(0, 127, 255)](Azure Services)
 
 ![Type of Cloud Services](fundamentals/slides/img/3-azure-services.png)
 
----?image=fundamentals/slides/img/slide.PNG
+---?image=fundamentals/slides/img/slide.png
+
+### @color[rgb(0, 127, 255)](Azure Subscriptions)
+
+![Azure Accounts & Subscriptions](fundamentals/slides/img/3-accounts-and-subscriptions.png)
+
+---?image=fundamentals/slides/img/slide.png
+
+### @color[rgb(0, 127, 255)](Azure Billing)
+
+![Billing](fundamentals/slides/img/3-understand-your-bill.png)
+
+---?image=fundamentals/slides/img/slide.png
+
+### @color[rgb(0, 127, 255)](Azure Tenant)
+
+![Billing](fundamentals/slides/img/4-azure-ad-tenant.png)
+
+---?image=fundamentals/slides/img/slide.png
+
+### @color[rgb(0, 127, 255)](Azure Management Options)
+
+- Azure Portal
+- Azure PowerShell
+- Azure Command-Line Interface (CLI)
+- Azure Cloud Shell
+- Azure Mobile app
+
+---?image=fundamentals/slides/img/slide.png
+
+### @color[rgb(0, 127, 255)](Azure Cloud Shell Dev Tools)
+
+- Languages: .NET Core, Python, Java, Node.js, Go
+- Editors: code (Cloud Shell Editor), vim, nano, emacs
+- Tools: git, maven, make, npm, ...
+
+---?image=fundamentals/slides/img/slide.png
 
 ### @color[rgb(0, 127, 255)](Azure Portal)
 
-- Azure Subscription
-- Resource Groups
-- Resource Tags
-- Create a Virtual Machine
+- Layout & Blades
+- Resource Panel
+- Marketplace
+- Settings
+
+---?image=fundamentals/slides/img/slide.png
+
+### @color[rgb(0, 127, 255)](Azure Compute Options)
+
+- Virtual Machines
+- Containers
+- Azure App Services
+- Serverless Computing
 
 ---?image=fundamentals/slides/img/bsod.png
 @title[Joke]
 
----?image=fundamentals/slides/img/end.PNG
+---?image=fundamentals/slides/img/end.png
 @title[Thanks]
