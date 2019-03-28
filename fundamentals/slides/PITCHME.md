@@ -11,15 +11,9 @@
 - Azure compute options
 - Azure data storage options
 - Azure networking options
-- Control and organize Azure resources with Azure Resource Manager
-
----?image=fundamentals/slides/img/slide.png
-
-### @color[rgb(0, 127, 255)](Overview)
-
-- Security, responsibility and trust in Azure
-- Apply and monitor infrastructure standards with Azure Policy
-- Predict costs and optimize spending for Azure)
+- Azure Resource Manager
+- Security
+- Azure Policy
 
 ---?image=fundamentals/slides/img/slide.png
 
@@ -150,6 +144,9 @@ Each Azure region is always paired with another region within the same geography
 - Resource Panel
 - Marketplace
 - Settings
+
+---?image=fundamentals/slides/img/demo.png
+@title[Lab: Using the Azure portal]
 
 ---?image=fundamentals/slides/img/slide.png
 
