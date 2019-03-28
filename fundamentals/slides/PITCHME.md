@@ -264,14 +264,14 @@ https://mscloud.be/real-time-twitter-sentiment-analysis-with-azure-cognitive-ser
 
 ![Storage Comparison](fundamentals/slides/img/4-storage-comparison.png)
 
----?image=fundamentals/slides/img/slide.png
-
 ---?image=fundamentals/slides/img/demo.png
 @title[Demo: Cosmos DB]
 
 @snap[midpoint]
 @color[white](Demo: Cosmos DB)
 @snapend
+
+---?image=fundamentals/slides/img/slide.png
 
 ### @color[rgb(0, 127, 255)](Azure Networking)
 
