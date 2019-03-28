@@ -116,7 +116,7 @@ Each Azure region is always paired with another region within the same geography
 
 ### @color[rgb(0, 127, 255)](Azure Billing)
 
-![Billing](fundamentals/slides/img/3-understand-your-bill.png =80%)
+![Billing](fundamentals/slides/img/3-understand-your-bill.png)
 
 ---?image=fundamentals/slides/img/slide.png
 
