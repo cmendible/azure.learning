@@ -14,5 +14,3 @@ theme-override : fundamentals/slides/PITCHME.css
 title : "Azure Fundamentals"
 description : "Azure Fundamentals"
 thumbnail : fundamentals/slides/img/cover.png
-
-background-size : contain

@@ -1,3 +1,4 @@
 .reveal table th, .reveal table td { font-size: 0.85em !important; }
 .reveal section img { border: 0; box-shadow: none; }
 p.footer-fade { color: white !important;}
+img[alt=Billing] { width: 80%; height: 80%;}
