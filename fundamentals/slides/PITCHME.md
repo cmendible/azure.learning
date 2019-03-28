@@ -250,7 +250,7 @@ Note:
 
 ### @color[rgb(0, 127, 255)](VNET Peering)
 
-![Storage Comparison](fundamentals/slides/img/vnet-peering.png.png)
+![VNET Peering](fundamentals/slides/img/vnet-peering.png)
 
 ---?image=fundamentals/slides/img/slide.png
 
