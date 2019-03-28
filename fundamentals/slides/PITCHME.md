@@ -148,8 +148,8 @@ Each Azure region is always paired with another region within the same geography
 ---?image=fundamentals/slides/img/demo.png
 @title[Lab: Using the Azure portal]
 
-@snap[center-left]
-Lab: Using the Azure portal
+@snap[center]
+@color[white](Lab: Using the Azure portal)
 @snapend
 
 ---?image=fundamentals/slides/img/slide.png
