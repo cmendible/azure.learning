@@ -120,6 +120,22 @@ Each Azure region is always paired with another region within the same geography
 
 ---?image=fundamentals/slides/img/slide.png
 
+### @color[rgb(0, 127, 255)](Azure Portal)
+
+- Layout & Blades
+- Resource Panel
+- Marketplace
+- Settings
+
+---?image=fundamentals/slides/img/demo.png
+@title[Demo: Using the Azure portal]
+
+@snap[midpoint]
+@color[white]Demo: Using the Azure portal)
+@snapend
+
+---?image=fundamentals/slides/img/slide.png
+
 ### @color[rgb(0, 127, 255)](Azure Management Options)
 
 - Azure Portal
@@ -136,20 +152,11 @@ Each Azure region is always paired with another region within the same geography
 - Editors: code (Cloud Shell Editor), vim, nano, emacs
 - Tools: git, maven, make, npm, ...
 
----?image=fundamentals/slides/img/slide.png
-
-### @color[rgb(0, 127, 255)](Azure Portal)
-
-- Layout & Blades
-- Resource Panel
-- Marketplace
-- Settings
-
 ---?image=fundamentals/slides/img/demo.png
-@title[Lab: Using the Azure portal]
+@title[Demo: Azure CLI]
 
 @snap[midpoint]
-@color[white](Lab: Using the Azure portal)
+@color[white](Demo: Azure CLI)
 @snapend
 
 ---?image=fundamentals/slides/img/slide.png
@@ -162,6 +169,7 @@ Each Azure region is always paired with another region within the same geography
 - Serverless Computing
 
 ---?image=fundamentals/slides/img/slide.png
+
 ### @color[rgb(0, 127, 255)](Scaling VMs in Azure)
 
 - Availability sets
@@ -174,6 +182,13 @@ Note:
 - Scale Sets let you create and manage a group of identical, load balanced VMs
 - Azure Batch enables large-scale job scheduling and compute management with the ability to scale to tens, hundreds, or thousands of VMs
 
+---?image=fundamentals/slides/img/demo.png
+@title[Demo: Create a Virtual Machine]
+
+@snap[midpoint]
+@color[white](Demo: Create a Virtual Machine)
+@snapend
+
 ---?image=fundamentals/slides/img/slide.png
 
 ### @color[rgb(0, 127, 255)](Containers in Azure)
@@ -181,6 +196,13 @@ Note:
 - Azure Container Instances (ACI)
 - Azure Kubernetes Service (AKS)
 - Managed OpenShift on Azure (OSA)
+
+---?image=fundamentals/slides/img/demo.png
+@title[Demo: Azure Kubernetes Service]
+
+@snap[midpoint]
+@color[white](Demo: Azure Kubernetes Service)
+@snapend
 
 ---?image=fundamentals/slides/img/slide.png
 
@@ -197,6 +219,13 @@ Note:
 
 - **Azure Functions** which can execute code in almost any modern language.
 - **Azure Logic Apps** which are designed in a web-based designer and can execute logic triggered by Azure services without writing any code.
+
+---?image=fundamentals/slides/img/demo.png
+@title[Demo: Logic Apps]
+
+@snap[midpoint]
+@color[white](Demo: Logic Apps)
+@snapend
 
 ---?image=fundamentals/slides/img/slide.png
 
@@ -229,6 +258,13 @@ Note:
 ![Storage Comparison](fundamentals/slides/img/4-storage-comparison.png)
 
 ---?image=fundamentals/slides/img/slide.png
+
+---?image=fundamentals/slides/img/demo.png
+@title[Demo: Cosmos DB]
+
+@snap[midpoint]
+@color[white](Demo: Cosmos DB)
+@snapend
 
 ### @color[rgb(0, 127, 255)](Azure Networking)
 
@@ -277,6 +313,13 @@ Note:
 
 ![Express Route](fundamentals/slides/img/expressroute.png)
 
+---?image=fundamentals/slides/img/demo.png
+@title[Demo: Virtual Network]
+
+@snap[midpoint]
+@color[white](Demo: Virtual Network)
+@snapend
+
 ---?image=fundamentals/slides/img/slide.png
 
 ### @color[rgb(0, 127, 255)](Organizing Resources)
@@ -301,6 +344,13 @@ Note:
 - Simplify Roll-back
 - Provide Cross-Resource Configuration and Update Support
 - [Templates](https://azure.microsoft.com/en-us/resources/templates/)
+
+---?image=fundamentals/slides/img/demo.png
+@title[Demo: ARM Temaplates]
+
+@snap[midpoint]
+@color[white](Demo: ARM Temaplates)
+@snapend
 
 ---?image=fundamentals/slides/img/slide.png
 
