@@ -300,7 +300,7 @@ Note:
 ### @color[rgb(0, 127, 255)](Azure Tips)
 
 - Start using the portal to deploy services.
-- Explore the services using resources.azure.com
+- Explore the services using [resources.azure.com](https://resources.azure.com)
 - Practice with CLI & ARM
 - Understand what services can cover your use case
 - [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/)
