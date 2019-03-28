@@ -230,6 +230,10 @@ Note:
 @color[white](Demo: Logic Apps)
 @snapend
 
+Note:
+
+https://mscloud.be/real-time-twitter-sentiment-analysis-with-azure-cognitive-services/
+
 ---?image=fundamentals/slides/img/slide.png
 
 ### @color[rgb(0, 127, 255)](Azure Storage Benefits)
