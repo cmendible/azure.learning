@@ -25,9 +25,9 @@
 
 ### @color[rgb(0, 127, 255)](What is cloud computing?)
 
-Cloud computing is renting resources, like storage space or CPU cycles, on another company's computers. You only pay for what you use. The company providing these services is referred to as a cloud provider. Some example providers are Microsoft, Amazon, and Google.
-
-The cloud provider is responsible for the physical hardware required to execute your work.
+- Cloud computing is renting resources, like storage space or CPU cycles, on another company's computers.
+- You only pay for what you use.
+- The cloud provider is responsible for the physical hardware required to execute your work.
 
 ---?image=fundamentals/slides/img/slide.png
 
@@ -45,9 +45,9 @@ The cloud provider is responsible for the physical hardware required to execute 
 
 ### @color[rgb(0, 127, 255)](CapEx vs OpEx)
 
-- **Capital Expenditure (CapEx)**: CapEx is the spending of money on physical infrastructure up front, and then deducting that expense from your tax bill over time. CapEx is an upfront cost, which has a value that reduces over time.
+- **Capital Expenditure (CapEx)**: CapEx is an upfront cost, which has a value that reduces over time.
 
-- **Operational Expenditure (OpEx)**: OpEx is spending money on services or products now and being billed for them now. You can deduct this expense from your tax bill in the same year. There's no upfront cost. You pay for a service or product as you use it.
+- **Operational Expenditure (OpEx)**: There's no upfront cost. You pay for a service or product as you use it.
 
 ---?image=fundamentals/slides/img/slide.png
 
