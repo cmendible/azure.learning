@@ -1,0 +1,16 @@
+
+published : true
+
+theme : white
+
+footnote : "Carlos Mendible | @cmendibl3"
+
+layout : top-left
+
+transition : none
+
+theme-override : slides/PITCHME.css
+
+title : "Azure Fundamentals"
+description : "Azure Fundamentals"
+thumbnail : slides/img/cover.png
