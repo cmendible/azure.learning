@@ -238,13 +238,13 @@ Note:
 
 ---?image=fundamentals/slides/img/slide.png
 
-### @color[rgb(0, 127, 255)](Virtual Network & Load Balancer)
+### @color[rgb(0, 127, 255)](Virtual Network)
 
 ![VNET](fundamentals/slides/img/vnet.png)
 
 ---?image=fundamentals/slides/img/slide.png
 
-### @color[rgb(0, 127, 255)](Azure Traffic Manager & Load Balancer)
+### @color[rgb(0, 127, 255)](Azure Traffic Manager)
 
 ![Traffic Manager](fundamentals/slides/img/traffic-maanager.png)
 
@@ -253,6 +253,19 @@ Note:
 ### @color[rgb(0, 127, 255)](Azure Application Gateway)
 
 ![Application Gateway](fundamentals/slides/img/3-appgateway.png)
+
+---?image=fundamentals/slides/img/slide.png
+
+### @color[rgb(0, 127, 255)](Organizing Resources)
+
+- Resource Groups
+  - Logical grouping
+  - Life cycle
+  - Authorization (RBAC)
+- Tags (max 15)
+- Policies
+- RBAC
+- Resource Locks
 
 ---?image=fundamentals/slides/img/bsod.png
 @title[Joke]
