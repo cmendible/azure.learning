@@ -265,6 +265,15 @@ Note:
 - RBAC
 - Resource Locks
 
+---?image=fundamentals/slides/img/slide.png
+
+### @color[rgb(0, 127, 255)](Azure Tips)
+
+- Start using the portal to deploy services.
+- Explore the services using resources.azure.com
+- Practice with CLI & ARM
+- Understand what services can cover your use case
+
 ---?image=fundamentals/slides/img/bsod.png
 @title[Joke]
 
