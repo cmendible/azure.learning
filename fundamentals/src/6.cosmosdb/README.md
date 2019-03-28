@@ -13,34 +13,34 @@ The main tasks for this exercise are as follows:
   
 1. In the **Console** window, type the following command to create the service:
 
-    ``` shell
-    az cosmosdb create \
-    --resource-group azure_fundamentals \
-    --name mycosmosdb \
-    --kind GlobalDocumentDB \
-    --locations "West Europe"=0 "North Europe"=1 \
-    --default-consistency-level "Session" \
+    ``` powershell
+    az cosmosdb create `
+    --resource-group azure_fundamentals `
+    --name mycosmosdbeveris `
+    --kind GlobalDocumentDB `
+    --locations "West Europe=0" "North Europe=1" `
+    --default-consistency-level "Session" `
     --enable-multiple-write-locations true
     ```
 
 1. In the **Console** window, type the following command to create the database:
 
-    ``` shell
-    az cosmosdb database create \
-    --resource-group $azure_fundamentals \
-    --name mycosmosdb \
+    ``` powershell
+    az cosmosdb database create `
+    --resource-group $azure_fundamentals `
+    --name mycosmosdbeveris `
     --db-name fundamentals
     ```
 
 1. In the **Console** window, type the following command to create a collection:
 
-    ``` shell
-    az cosmosdb collection create \
-    --resource-group azure_fundamentals \
-    --collection-name tweets \
-    --name mycosmosdb \
-    --db-name fundamentals \
-    --partition-key-path /id \
+    ``` powershell
+    az cosmosdb collection create `
+    --resource-group azure_fundamentals `
+    --collection-name tweets `
+    --name mycosmosdbeveris `
+    --db-name fundamentals `
+    --partition-key-path /id `
     --throughput 1000
     ```
 
