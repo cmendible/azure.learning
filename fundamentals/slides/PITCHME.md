@@ -221,7 +221,38 @@ Note:
 
 ### @color[rgb(0, 127, 255)](Storage Comparison)
 
-![Billing](fundamentals/slides/img/4-storage-comparison.png)
+![Storage Comparison](fundamentals/slides/img/4-storage-comparison.png)
+
+---?image=fundamentals/slides/img/slide.png
+
+### @color[rgb(0, 127, 255)](Azure Networking)
+
+- Virtual Networks
+- Network Secuirty Groups
+- Load Balancers
+- Traffic Manager
+- Azure Application Gateway
+- CDN
+- IPs
+- DNS Zones
+
+---?image=fundamentals/slides/img/slide.png
+
+### @color[rgb(0, 127, 255)](Virtual Network & Load Balancer)
+
+![VNET](fundamentals/slides/img/vnet.png)
+
+---?image=fundamentals/slides/img/slide.png
+
+### @color[rgb(0, 127, 255)](Azure Traffic Manager & Load Balancer)
+
+![Traffic Manager](fundamentals/slides/img/traffic-maanager.png)
+
+---?image=fundamentals/slides/img/slide.png
+
+### @color[rgb(0, 127, 255)](Azure Application Gateway)
+
+![Application Gateway](fundamentals/slides/img/3-appgateway.png)
 
 ---?image=fundamentals/slides/img/bsod.png
 @title[Joke]
