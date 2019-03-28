@@ -55,25 +55,19 @@
 
 ### @color[rgb(0, 127, 255)](Types of cloud services)
 
-@snap[midpoint]
 ![Iaas, PaaS, SaaS](fundamentals/slides/img/5-layer-diagram.png)
-@snapend
 
 ---?image=fundamentals/slides/img/slide.png
 
 ### @color[rgb(0, 127, 255)](Pizza as a Service)
 
-@snap[midpoint]
 ![Pizza as a Service](fundamentals/slides/img/pizza-as-service.jpeg)
-@snapend
 
 ---?image=fundamentals/slides/img/slide.png
 
 ### @color[rgb(0, 127, 255)](Azure Regions)
 
-@snap[midpoint]
 ![Azure Regions](fundamentals/slides/img/regions-map-large.svg)
-@snapend
 
 Note:
 
@@ -84,9 +78,7 @@ Note:
 
 ### @color[rgb(0, 127, 255)](Azure Availability Zones)
 
-@snap[midpoint]
 ![Azure Availability Zones](fundamentals/slides/img/4-availability-zones.png)
-@snapend
 
 Note:
 
@@ -96,9 +88,7 @@ Each Availability Zone is made up of one or more datacenters equipped with indep
 
 ### @color[rgb(0, 127, 255)](Azure Region Pairs)
 
-@snap[midpoint]
 ![Azure Availability Zones](fundamentals/slides/img/5-region-pairs.png)
-@snapend
 
 Note:
 
@@ -108,33 +98,25 @@ Each Azure region is always paired with another region within the same geography
 
 ### @color[rgb(0, 127, 255)](Azure Services)
 
-@snap[midpoint]
 ![Type of Cloud Services](fundamentals/slides/img/3-azure-services.png)
-@snapend
 
 ---?image=fundamentals/slides/img/slide.png
 
 ### @color[rgb(0, 127, 255)](Azure Subscriptions)
 
-@snap[midpoint]
 ![Azure Accounts & Subscriptions](fundamentals/slides/img/3-accounts-and-subscriptions.png)
-@snapend
 
 ---?image=fundamentals/slides/img/slide.png
 
 ### @color[rgb(0, 127, 255)](Azure Billing)
 
-@snap[midpoint]
 ![Billing](fundamentals/slides/img/3-understand-your-bill.png)
-@snapend
 
 ---?image=fundamentals/slides/img/slide.png
 
 ### @color[rgb(0, 127, 255)](Azure Tenant)
 
-@snap[midpoint]
 ![Billing](fundamentals/slides/img/4-azure-ad-tenant.png)
-@snapend
 
 ---?image=fundamentals/slides/img/slide.png
 
@@ -273,9 +255,7 @@ Note:
 
 ### @color[rgb(0, 127, 255)](Storage Comparison)
 
-@snap[midpoint]
 ![Storage Comparison](fundamentals/slides/img/4-storage-comparison.png)
-@snapend
 
 ---?image=fundamentals/slides/img/slide.png
 
@@ -301,48 +281,37 @@ Note:
 
 ### @color[rgb(0, 127, 255)](Virtual Network)
 
-@snap[midpoint]
 ![VNET](fundamentals/slides/img/vnet.png)
-@snapend
 
 ---?image=fundamentals/slides/img/slide.png
 
 ### @color[rgb(0, 127, 255)](VNET Peering)
 
-@snap[midpoint]
 ![VNET Peering](fundamentals/slides/img/vnet-peering.png)
-@snapend
 
 ---?image=fundamentals/slides/img/slide.png
 
 ### @color[rgb(0, 127, 255)](Azure Traffic Manager)
 
-@snap[midpoint]
 ![Traffic Manager](fundamentals/slides/img/traffic-maanager.png)
-@snapend
 
 ---?image=fundamentals/slides/img/slide.png
 
 ### @color[rgb(0, 127, 255)](Azure Application Gateway)
 
-@snap[midpoint]
 ![Application Gateway](fundamentals/slides/img/3-appgateway.png)
-@snapend
 
 ---?image=fundamentals/slides/img/slide.png
 
 ### @color[rgb(0, 127, 255)](Azure Site to Site VPN)
 
-@snap[midpoint]
 ![Site to Site VPN](fundamentals/slides/img/site-to-site-diagram.png)
-@snapend
+
 ---?image=fundamentals/slides/img/slide.png
 
 ### @color[rgb(0, 127, 255)](Azure Express Route)
 
-@snap[midpoint]
 ![Express Route](fundamentals/slides/img/expressroute.png)
-@snapend
 
 ---?image=fundamentals/slides/img/demo.png
 @title[Demo: Virtual Network]
@@ -397,33 +366,25 @@ Note:
 
 ### @color[rgb(0, 127, 255)](Microservices & AKS Architecture)
 
-@snap[midpoint]
 ![Microservices & AKS Architecture](fundamentals/slides/img/aks.png)
-@snapend
 
 ---?image=fundamentals/slides/img/slide.png
 
 ### @color[rgb(0, 127, 255)](Serverless web application)
 
-@snap[midpoint]
 ![Serverless web application](fundamentals/slides/img/serverless-web-app.png)
-@snapend
 
 ---?image=fundamentals/slides/img/slide.png
 
 ### @color[rgb(0, 127, 255)](Stream Processing Architecture)
 
-@snap[midpoint]
 ![Stream Processing Architecture](fundamentals/slides/img/stream-processing-databricks.png)
-@snapend
 
 ---?image=fundamentals/slides/img/slide.png
 
 ### @color[rgb(0, 127, 255)](Automated enterprise BI)
 
-@snap[midpoint]
 ![Automated enterprise BI](fundamentals/slides/img/enterprise-bi-sqldw-adf.png)
-@snapend
 
 ---?image=fundamentals/slides/img/bsod.png
 @title[Joke]
