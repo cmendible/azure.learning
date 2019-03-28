@@ -266,7 +266,7 @@ Note:
 
 ---?image=fundamentals/slides/img/slide.png
 
-### @color[rgb(0, 127, 255)](Azure Site to Site VPN)
+### @color[rgb(0, 127, 255)](Azure Express Route)
 
 ![Express Route](fundamentals/slides/img/expressroute.png)
 
