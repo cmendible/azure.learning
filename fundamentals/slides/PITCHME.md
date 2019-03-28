@@ -7,8 +7,6 @@
 
 - Principles of cloud computing
 - Introduction to Azure
-- Azure architecture and service guarantees
-- Azure account
 - Manage services with the Azure portal
 - Azure compute options
 - Azure data storage options
