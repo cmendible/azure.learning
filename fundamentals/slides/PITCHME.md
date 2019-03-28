@@ -305,6 +305,30 @@ Note:
 - Understand what services can cover your use case
 - [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/)
 
+---?image=fundamentals/slides/img/slide.png
+
+### @color[rgb(0, 127, 255)](Microservices & AKS Architecture)
+
+![Microservices & AKS Architecture](fundamentals/slides/img/aks.png)
+
+---?image=fundamentals/slides/img/slide.png
+
+### @color[rgb(0, 127, 255)](Serverless web application)
+
+![Serverless web application](fundamentals/slides/img/serverless-web-app.png)
+
+---?image=fundamentals/slides/img/slide.png
+
+### @color[rgb(0, 127, 255)](Stream Processing Architecture)
+
+![Stream Processing Architecture](fundamentals/slides/img/stream-processing-databricks.png)
+
+---?image=fundamentals/slides/img/slide.png
+
+### @color[rgb(0, 127, 255)](Automated enterprise BI)
+
+![Automated enterprise BI](fundamentals/slides/img/enterprise-bi-sqldw-adf.png)
+
 ---?image=fundamentals/slides/img/bsod.png
 @title[Joke]
 
