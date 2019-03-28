@@ -193,6 +193,36 @@ Note:
 - **Azure Functions** which can execute code in almost any modern language.
 - **Azure Logic Apps** which are designed in a web-based designer and can execute logic triggered by Azure services without writing any code.
 
+---?image=fundamentals/slides/img/slide.png
+
+### @color[rgb(0, 127, 255)](Azure Storage Benefits)
+
+- Automated backup and recovery
+- Replication across the globe
+- Support for data analytics
+- Encryption capabilities
+- Multiple data types disks
+- Data storage in virtual disks
+- Storage tiers
+
+---?image=fundamentals/slides/img/slide.png
+
+### @color[rgb(0, 127, 255)](Azure Storage Options)
+
+- Azure SQL Database
+- Azure Cosmos DB
+- Azure Blob Storage
+- Azure Data Lake Storage Gen2
+- Azure Files
+- Azure Queue
+- Disk Storage
+
+---?image=fundamentals/slides/img/slide.png
+
+### @color[rgb(0, 127, 255)](Storage Comparison)
+
+![Billing](fundamentals/slides/img/4-storage-comparison.png)
+
 ---?image=fundamentals/slides/img/bsod.png
 @title[Joke]
 
