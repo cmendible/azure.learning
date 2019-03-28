@@ -260,6 +260,18 @@ Note:
 
 ---?image=fundamentals/slides/img/slide.png
 
+### @color[rgb(0, 127, 255)](Azure Site to Site VPN)
+
+![Site to Site VPN](fundamentals/slides/img/site-to-site-diagram.png)
+
+---?image=fundamentals/slides/img/slide.png
+
+### @color[rgb(0, 127, 255)](Azure Site to Site VPN)
+
+![Express Route](fundamentals/slides/img/expressroute.png)
+
+---?image=fundamentals/slides/img/slide.png
+
 ### @color[rgb(0, 127, 255)](Organizing Resources)
 
 - Resource Groups
@@ -270,6 +282,18 @@ Note:
 - Policies
 - RBAC
 - Resource Locks
+
+---?image=fundamentals/slides/img/slide.png
+
+### @color[rgb(0, 127, 255)](Azure ARM Templates)
+
+- Declarative solution for Deployment and Configuration
+- Power of Repeatability
+- Ensure Idempotency
+- Simplify Orchestration
+- Simplify Roll-back
+- Provide Cross-Resource Configuration and Update Support
+- https://azure.microsoft.com/en-us/resources/templates/
 
 ---?image=fundamentals/slides/img/slide.png
 
