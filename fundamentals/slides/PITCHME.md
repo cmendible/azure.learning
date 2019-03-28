@@ -346,10 +346,10 @@ Note:
 - [Templates](https://azure.microsoft.com/en-us/resources/templates/)
 
 ---?image=fundamentals/slides/img/demo.png
-@title[Demo: ARM Temaplates]
+@title[Demo: ARM Templates]
 
 @snap[midpoint]
-@color[white](Demo: ARM Temaplates)
+@color[white](Demo: ARM Templates)
 @snapend
 
 ---?image=fundamentals/slides/img/slide.png
