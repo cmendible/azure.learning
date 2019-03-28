@@ -65,9 +65,13 @@ The cloud provider is responsible for the physical hardware required to execute 
 
 ![Iaas, PaaS, SaaS](fundamentals/slides/img/5-layer-diagram.png)
 
+---?image=fundamentals/slides/img/slide.PNG
+
 ### @color[rgb(0, 127, 255)](Azure Regions)
 
 ![Azure Regions](fundamentals/slides/img/regions-map-large.svg)
+
+---?image=fundamentals/slides/img/slide.PNG
 
 ### @color[rgb(0, 127, 255)](Azure Availability Zones)
 
@@ -77,6 +81,8 @@ Note:
 
 Each Availability Zone is made up of one or more datacenters equipped with independent power, cooling, and networking. It is set up to be an isolation boundary.
 
+---?image=fundamentals/slides/img/slide.PNG
+
 ### @color[rgb(0, 127, 255)](Azure Region Pairs)
 
 ![Azure Availability Zones](fundamentals/slides/img/5-region-pairs.png)
@@ -85,9 +91,13 @@ Note:
 
 Each Azure region is always paired with another region within the same geography
 
+---?image=fundamentals/slides/img/slide.PNG
+
 ### @color[rgb(0, 127, 255)](Azure Services)
 
 ![Type of Cloud Services](fundamentals/slides/img/3-azure-services.png)
+
+---?image=fundamentals/slides/img/slide.PNG
 
 ### @color[rgb(0, 127, 255)](Azure Portal)
 
