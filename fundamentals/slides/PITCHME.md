@@ -156,6 +156,43 @@ Each Azure region is always paired with another region within the same geography
 - Azure App Services
 - Serverless Computing
 
+---?image=fundamentals/slides/img/slide.png
+### @color[rgb(0, 127, 255)](Scaling VMs in Azure)
+
+- Availability sets
+- Scale Sets
+- Azure Batch
+
+Note:
+
+- An availability set is a logical grouping of two or more VMs that help keep your application available during planned or unplanned maintenance.
+- Scale Sets let you create and manage a group of identical, load balanced VMs
+- Azure Batch enables large-scale job scheduling and compute management with the ability to scale to tens, hundreds, or thousands of VMs
+
+---?image=fundamentals/slides/img/slide.png
+
+### @color[rgb(0, 127, 255)](Containers in Azure)
+
+- Azure Container Instances (ACI)
+- Azure Kubernetes Service (AKS)
+- Managed OpenShift on Azure (OSA)
+
+---?image=fundamentals/slides/img/slide.png
+
+### @color[rgb(0, 127, 255)](Azure App Services)
+
+- Web Apps
+- API Apps
+- WebJobs
+- Mobile Apps
+
+---?image=fundamentals/slides/img/slide.png
+
+### @color[rgb(0, 127, 255)](Azure Serverless Computing)
+
+- **Azure Functions** which can execute code in almost any modern language.
+- **Azure Logic Apps** which are designed in a web-based designer and can execute logic triggered by Azure services without writing any code.
+
 ---?image=fundamentals/slides/img/bsod.png
 @title[Joke]
 
