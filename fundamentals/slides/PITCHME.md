@@ -248,6 +248,12 @@ Note:
 
 ---?image=fundamentals/slides/img/slide.png
 
+### @color[rgb(0, 127, 255)](VNET Peering)
+
+![Storage Comparison](fundamentals/slides/img/vnet-peering.png.png)
+
+---?image=fundamentals/slides/img/slide.png
+
 ### @color[rgb(0, 127, 255)](Azure Traffic Manager)
 
 ![Traffic Manager](fundamentals/slides/img/traffic-maanager.png)
