@@ -9,7 +9,7 @@ layout : top-left
 
 transition : none
 
-theme-override : slides/PITCHME.css
+theme-override : fundamentals/slides/PITCHME.css
 
 title : "Azure Fundamentals"
 description : "Azure Fundamentals"
