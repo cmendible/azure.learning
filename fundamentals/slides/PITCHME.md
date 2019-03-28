@@ -1,7 +1,7 @@
----?image=slides/img/cover.png
+---?image=fundamentals/slides/img/cover.png
 @title[Cover]
 
----?image=slides/img/slide.PNG
+---?image=fundamentals/slides/img/slide.PNG
 
 ### @color[rgb(104, 32, 121)](Overview)
 
@@ -22,8 +22,8 @@ Note:
 
 YADA YADA
 
----?image=slides/img/bsod.png
+---?image=fundamentals/slides/img/bsod.png
 @title[Joke]
 
----?image=slides/img/end.PNG
+---?image=fundamentals/slides/img/end.PNG
 @title[Thanks]

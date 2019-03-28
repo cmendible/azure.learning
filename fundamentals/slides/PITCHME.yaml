@@ -13,4 +13,4 @@ theme-override : slides/PITCHME.css
 
 title : "Azure Fundamentals"
 description : "Azure Fundamentals"
-thumbnail : slides/img/cover.png
+thumbnail : fundamentals/slides/img/cover.png
