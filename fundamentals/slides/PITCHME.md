@@ -65,6 +65,12 @@
 
 ---?image=fundamentals/slides/img/slide.png
 
+### @color[rgb(0, 127, 255)](Pizza as a Service)
+
+![Pizza as a Service](fundamentals/slides/img/pizza-as-service.jpeg)
+
+---?image=fundamentals/slides/img/slide.png
+
 ### @color[rgb(0, 127, 255)](Azure Regions)
 
 ![Azure Regions](fundamentals/slides/img/regions-map-large.svg)
