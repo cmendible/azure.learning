@@ -293,7 +293,7 @@ Note:
 - Simplify Orchestration
 - Simplify Roll-back
 - Provide Cross-Resource Configuration and Update Support
-- https://azure.microsoft.com/en-us/resources/templates/
+- ["Templates"](https://azure.microsoft.com/en-us/resources/templates/)
 
 ---?image=fundamentals/slides/img/slide.png
 
@@ -303,6 +303,7 @@ Note:
 - Explore the services using resources.azure.com
 - Practice with CLI & ARM
 - Understand what services can cover your use case
+- ["Azure Architecture Center"](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/)
 
 ---?image=fundamentals/slides/img/bsod.png
 @title[Joke]
