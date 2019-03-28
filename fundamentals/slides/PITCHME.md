@@ -35,13 +35,13 @@ The cloud provider is responsible for the physical hardware required to execute 
 
 ### @color[rgb(0, 127, 255)](Benefits of cloud computing)
 
-- It’s cost-effective
-- It's scalable
-- It's elastic
-- It's current
-- It's reliable
-- It's global
-- It's secure
+- Cost-effective
+- Scalable
+- Elastic
+- Current
+- Reliable
+- Global
+- Secure
 
 ---?image=fundamentals/slides/img/slide.PNG
 
@@ -62,10 +62,6 @@ The cloud provider is responsible for the physical hardware required to execute 
 ---?image=fundamentals/slides/img/slide.PNG
 
 ### @color[rgb(0, 127, 255)](Types of cloud services)
-
-- IaaS
-- PaaS
-- SaaS
 
 ![Type of Cloud Services](fundamentals/slides/img/5-layer-diagram.png))
 
