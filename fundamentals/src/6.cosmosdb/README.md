@@ -27,7 +27,7 @@ The main tasks for this exercise are as follows:
 
     ``` powershell
     az cosmosdb database create `
-    --resource-group $azure_fundamentals `
+    --resource-group azure_fundamentals `
     --name mycosmosdbeveris `
     --db-name fundamentals
     ```
