@@ -189,6 +189,9 @@ Note:
 @color[white](Demo: Create a Virtual Machine)
 @snapend
 
+---?image=fundamentals/slides/img/bsod.png
+@title[Joke]
+
 ---?image=fundamentals/slides/img/slide.png
 
 ### @color[rgb(0, 127, 255)](Containers in Azure)
@@ -385,9 +388,6 @@ Note:
 ### @color[rgb(0, 127, 255)](Automated enterprise BI)
 
 ![Automated enterprise BI](fundamentals/slides/img/enterprise-bi-sqldw-adf.png)
-
----?image=fundamentals/slides/img/bsod.png
-@title[Joke]
 
 ---?image=fundamentals/slides/img/end.png
 @title[Thanks]
